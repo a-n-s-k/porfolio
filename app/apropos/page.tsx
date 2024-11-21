@@ -1,7 +1,6 @@
 export default async function Apropos() {
 
   return (
-  <>
     <section className="py-10">
       <h1 className="font-heading text-2xl sm:text-4xl md:text-5xl lg:text-6xl pb-10 text-center">A Propos</h1>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -12,6 +11,5 @@ export default async function Apropos() {
         <p className="text-3xl text-slate-600 sm:text-2xl md:text-4xl pb-10">Développeur JavaScript, React. Je suis disponible pour concevoir, créer et maintenir votre site web ou application.</p>
       </div>
     </section>
-  </>
   )
 }
