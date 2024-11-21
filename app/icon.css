@@ -1,0 +1,13 @@
+.lucide {
+  color: #020617;
+  width: 34px;
+  height: 32px;
+  stroke-width: 1.5px;
+}
+
+.app {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 6px;
+}
