@@ -2,7 +2,7 @@ import Link from "next/link"
 import AnskLogo from "@/components/site/ansk-logo"
 
 const navLinks = [
-  { name: "Porfolio", lienurl: "/porfolio", },
+  { name: "portfolio", lienurl: "/portfolio", },
   { name: <AnskLogo />, lienurl: "/", },
   { name: "A Propos", lienurl: "/apropos", },
 ]

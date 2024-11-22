@@ -2,7 +2,7 @@ import CardBooki from "@/components/site/card-booki"
 import CardSophiebluel from "@/components/site/card-sophiebluel"
 import CardKasa from "@/components/site/card-kasa"
 
-export default function Porfolio() {
+export default function portfolio() {
   return (
 <section className="py-10">
   <h1 className="font-heading text-3xl sm:text-4xl md:text-5xl lg:text-6xl pb-10 text-center">
