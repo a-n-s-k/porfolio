@@ -13,7 +13,7 @@ export default function CardKasa () {
               <div className="flex flex-col lg:flex-row">
                 <div className="lg:w-full xl:w-1/2  m-2">
                   <Image 
-                  src="/Kasa.png"
+                  src="https://a-n-s-k.github.io/porfolio/Kasa.png"
                   alt="Kasa"
                   className="object-contain md:object-scale-down"
                   width={1024}
